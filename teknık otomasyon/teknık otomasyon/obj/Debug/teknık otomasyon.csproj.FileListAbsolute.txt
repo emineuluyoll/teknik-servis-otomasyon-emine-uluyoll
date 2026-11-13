@@ -1,0 +1,15 @@
+C:\Users\emine\source\repos\teknık otomasyon\teknık otomasyon\bin\Debug\teknık otomasyon.exe.config
+C:\Users\emine\source\repos\teknık otomasyon\teknık otomasyon\bin\Debug\teknık otomasyon.exe
+C:\Users\emine\source\repos\teknık otomasyon\teknık otomasyon\bin\Debug\teknık otomasyon.pdb
+C:\Users\emine\source\repos\teknık otomasyon\teknık otomasyon\obj\Debug\teknık otomasyon.csproj.AssemblyReference.cache
+C:\Users\emine\source\repos\teknık otomasyon\teknık otomasyon\obj\Debug\teknık_otomasyon.Form1.resources
+C:\Users\emine\source\repos\teknık otomasyon\teknık otomasyon\obj\Debug\teknık_otomasyon.Properties.Resources.resources
+C:\Users\emine\source\repos\teknık otomasyon\teknık otomasyon\obj\Debug\teknık otomasyon.csproj.GenerateResource.cache
+C:\Users\emine\source\repos\teknık otomasyon\teknık otomasyon\obj\Debug\teknık otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\emine\source\repos\teknık otomasyon\teknık otomasyon\obj\Debug\teknık otomasyon.exe
+C:\Users\emine\source\repos\teknık otomasyon\teknık otomasyon\obj\Debug\teknık otomasyon.pdb
+C:\Users\emine\source\repos\teknık otomasyon\teknık otomasyon\obj\Debug\teknık_otomasyon.DatabaseBilgileri.resources
+C:\Users\emine\source\repos\teknık otomasyon\teknık otomasyon\obj\Debug\teknık_otomasyon.FrmAnasayfa.resources
+C:\Projeler\teknık otomasyon.exe.config
+C:\Projeler\teknık otomasyon.exe
+C:\Projeler\teknık otomasyon.pdb

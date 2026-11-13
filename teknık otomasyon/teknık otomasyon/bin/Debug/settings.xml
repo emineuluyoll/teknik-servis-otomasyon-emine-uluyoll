@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<setting>
+  <DB>
+    <Provider>SQLOLEDB.1</Provider>
+    <ServerName>.\SQLEXPRESS</ServerName>
+    <DatabaseName>teknik servis</DatabaseName>
+    <UserId>sa</UserId>
+    <Password>Rbhj30ODzYRbPeSB+Q3yBA==</Password>
+    <Keys>emine uluyol</Keys>
+  </DB>
+</setting>
