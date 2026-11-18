@@ -13,3 +13,14 @@ C:\Users\emine\source\repos\teknık otomasyon\teknık otomasyon\obj\Debug\teknı
 C:\Projeler\teknık otomasyon.exe.config
 C:\Projeler\teknık otomasyon.exe
 C:\Projeler\teknık otomasyon.pdb
+C:\Users\emine\OneDrive\Desktop\teknık otomasyon\teknık otomasyon\obj\Debug\teknık otomasyon.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Desktop\teknık otomasyon\teknık otomasyon\obj\Debug\teknık_otomasyon.DatabaseBilgileri.resources
+C:\Users\emine\OneDrive\Desktop\teknık otomasyon\teknık otomasyon\obj\Debug\teknık_otomasyon.Form1.resources
+C:\Users\emine\OneDrive\Desktop\teknık otomasyon\teknık otomasyon\obj\Debug\teknık_otomasyon.FrmAnasayfa.resources
+C:\Users\emine\OneDrive\Desktop\teknık otomasyon\teknık otomasyon\obj\Debug\teknık_otomasyon.Properties.Resources.resources
+C:\Users\emine\OneDrive\Desktop\teknık otomasyon\teknık otomasyon\obj\Debug\teknık otomasyon.csproj.GenerateResource.cache
+C:\Users\emine\OneDrive\Desktop\teknık otomasyon\teknık otomasyon\obj\Debug\teknık otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Desktop\teknık otomasyon\teknık otomasyon\obj\Debug\teknık otomasyon.exe
+C:\Users\emine\OneDrive\Desktop\teknık otomasyon\teknık otomasyon\obj\Debug\teknık otomasyon.pdb
+C:\Users\emine\OneDrive\Desktop\teknık otomasyon\teknık otomasyon\obj\Debug\teknık_otomasyon.KullaniciProfili.resources
+C:\Users\emine\OneDrive\Desktop\teknık otomasyon\teknık otomasyon\obj\Debug\teknık_otomasyon.personelekle.resources

@@ -65,6 +65,18 @@
     <Compile Include="FrmAnasayfa.Designer.cs">
       <DependentUpon>FrmAnasayfa.cs</DependentUpon>
     </Compile>
+    <Compile Include="KullaniciProfili.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciProfili.Designer.cs">
+      <DependentUpon>KullaniciProfili.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personelekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personelekle.Designer.cs">
+      <DependentUpon>personelekle.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="DatabaseBilgileri.resx">
@@ -75,6 +87,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmAnasayfa.resx">
       <DependentUpon>FrmAnasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciProfili.resx">
+      <DependentUpon>KullaniciProfili.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personelekle.resx">
+      <DependentUpon>personelekle.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
